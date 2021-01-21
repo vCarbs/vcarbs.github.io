@@ -92,7 +92,8 @@ $sidebar-display: "sidebar-display";
   }
 
   .site-subtitle {
-    font-size: 95%;
+    font-size: 2rem;
+    /*font-size: 95%;*/
     color: #828282;
     line-height: 1.2rem;
     word-spacing: 1px;
@@ -1477,8 +1478,8 @@ img {
         @extend %profile-ml;
 
         > a {
-          width: 6.2rem;
-          height: 6.2rem;
+          width: 10.2rem;
+          height: 10.2rem;
           &.mx-auto {
             margin-left: 0 !important;
           }

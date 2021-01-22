@@ -12,7 +12,7 @@ title: vCarbs.com                          # the main title
 tagline:    # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A technology blog focused on cloud, automation and the impact it has on business.
+  A technology blog focused on cloud, automation and digital transformation.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
@@ -45,7 +45,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 baseurl: ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: America/Los_Angeles
 
 google_analytics:
   id: ''          # Fill with your Google Analytics ID
@@ -90,7 +90,7 @@ avatar: http://vcarbs.com/wp-content/uploads/2019/01/cropped-IMG_0726.jpg
 # boolean type, the global switch for ToC in posts.
 toc: true
 
-paginate: 10
+paginate: 7
 
 kramdown:
   syntax_highlighter: rouge

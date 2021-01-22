@@ -1,0 +1,10 @@
+---
+title: So Long vSphere C# Client
+date: 2016-05-18
+tags: [VMware]     # TAG names should always be lowercase
+---
+Yep, here we go again. If you haven’t heard the news yet, VMware announced today that they are deprecating the C# client and going all in with a HTML5 web client. You can read the release [here.](https://blogs.vmware.com/vsphere/2016/05/goodbye-vsphere-client-for-windows-c-hello-html5.html) Personally, I completely agree with this decision as long as the new web client supports all vSphere features from day one. The biggest complaint with the existing web client that I hear most from customers (besides being Flash-based and incredibly slow) is a lack of feature parity with with the C# client. We can all agree that the first few iterations still needed quite a bit of work and I’m hoping that the new HTML5 web client ships with these issues ironed out.
+
+Now, if you’re reading this, I’m sure you have already noticed the Twittersphere blowing up with complaints and threats of leaving the vSphere platform entirely. My take? Who cares! I’ve been thinking about this for the past few days and I honestly can’t recall spending that much time in the vSphere client. VMware has done a great job of providing the tools and methods for automating the deployment and administration of their software that there should be no need for admins to spend that much time in the client performing basic tasks. Besides, all of the new features and products we are spending time with are only available in the web client. Products like VSAN and NSX, or deep integrations with vR Ops and vRO, its time that VMware get serious with a slick web client.
+
+Not only that, but as an industry we are moving towards HTML5 management interfaces. Think about all of the personal devices you use to get your job done. I for one can recall many times where I was in a meeting or away at lunch and needed to reboot a VM or take / delete a snapshot and wished for a mobile app or web interface to quickly get that done. I’m glad to see VMware taking the next step. My only question is when we can expect to see the same for the Horizon View client… Your move, VMware.

@@ -24,6 +24,7 @@ Classic Load Balancer: Classic Load Balancer provides basic load balancing and i
 ELB supports the load balancing capabilities critical for you to migrate to AWS. ELB is well positioned to load balance both traditional as well as cloud native applications with auto scaling capabilities that eliminate the guess work in capacity planning. ELB is easy to configure and use, which makes your migration experience simple. The managed experience of ELB means that you can focus on the most critical part of a successful migration - migrating applications - instead of configuring load balancers.
 
 ![Desktop View](/assets/posts/vmc_design_p2/1.png){: .normal}
+
 **Figure 1 – Load Balance Web and App Servers hosted in VMC**
 The below steps describe the architecture above:
 **External User Access**
@@ -52,6 +53,7 @@ Amazon RDS makes it easy to set up, operate, and scale a relational database in 
 You can scale your database's compute and storage resources with only a few mouse clicks or an API call, often with no downtime. Many Amazon RDS engine types allow you to launch one or more Read Replicas to offload read traffic from your primary database instance. When you provision a Multi-AZ database Instance, Amazon RDS synchronously replicates the data to a standby instance in a different Availability Zone (AZ). Amazon RDS has many other features that enhance reliability for critical production databases, including automated backups, database snapshots, and automatic host replacement.
 
 ![Desktop View](/assets/posts/vmc_design_p2/2.png){: .normal}
+
 **Figure 2 – Amazon RDS Integration with VMware Cloud on AWS**
 Amazon RDS is available on several database instance types - optimized for memory, performance or I/O - and provides you with six familiar database engines to choose from, including Amazon Aurora, PostgreSQL, MySQL, MariaDB, Oracle Database, and Microsoft SQL Server. You can use the AWS Database Migration Service to easily migrate or replicate your existing databases to Amazon RDS. 
 
@@ -61,6 +63,7 @@ Containers provide a standard way to package your application's code, configurat
 AWS offers services that give you a secure place to store and manage your container images, orchestration that manages when and where your containers run, and flexible compute engines to power your containers. AWS can help manage your containers and their deployments for you, so you don't have to worry about the underlying infrastructure. If you are running Kubernetes on-premises you can leverage Amazon Elastic Container Service for Kubernetes (Amazon EKS); this solution makes it easy to deploy, manage, and scale containerized applications using Kubernetes on AWS. If you are new to containers, don’t have experience with container orchestrators, or simply want to stick with using AWS API’s, use the Amazon Elastic Container Service (Amazon ECS). Amazon ECS featuring AWS Fargate will enable you to deploy containers without provisioning servers, ultimately reducing management overhead. 
  
 ![Desktop View](/assets/posts/vmc_design_p2/3.png){: .normal}
+
 **Figure 3 – Modernize Applications with Microservices Architecture using Amazon Elastic Kubernetes Service (Amazon EKS)**
 The below steps describe the architecture above:
 1.	The Elastic Network Interface is automatically attached to the EC2 bare metal (ESXi) hosts in VMware Cloud on AWS during the software defined data center (SDDC) provisioning.

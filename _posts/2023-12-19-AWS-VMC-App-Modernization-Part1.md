@@ -6,7 +6,8 @@ tags: [VMC, VMC on AWS]     # TAG names should always be lowercase
 Application modernization is a multi-faceted approach to achieving faster software delivery cycles, lower TCO, and gain operational efficiencies. This is achieved through an automation first approach, as well as offloading the heavy lifting by leveraging managed services when possible. Ways to modernize include going to the cloud, using automation, and taking advantage of cloud-enabled possibilities not previously achievable on-premises (such as real-time analytics or containerization).
 This chapter covers three common use cases as well as design and other considerations for modernizing applications that run on the VMware Cloud on AWS service. 
 
-1.1	Modernization Considerations
+<h2>1.1	Modernization Considerations</h2>
+
 Presumably by now, you have decided that modernizing is the next phase for your VMware and AWS journey and are ready to take the leap into the next phase. In order to accomplish this goal, you must lean on people, processes, and technology to make the modernization a reality.
 Why Modernize
 Regardless of the industry, organizations are looking to become more agile so they can innovate and respond to change faster. This enables organizations to meet their customers where they are by developing features and bug fixes at a faster rate, which leads to higher customer satisfaction. Modern applications are built with a combination of modular architecture patterns, serverless operational modules and agile developer processes. This allows for organizations to innovate faster while reducing risk, time to market, and total cost of ownership.  

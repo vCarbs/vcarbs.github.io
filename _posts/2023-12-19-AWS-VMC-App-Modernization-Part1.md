@@ -1,6 +1,6 @@
 ---
 title: VMC on AWS Application Modernization - Part 1
-date: 2023-12-10
+date: 2023-12-11
 tags: [VMC, VMC on AWS]     # TAG names should always be lowercase
 ---
 Application modernization is a multi-faceted approach to achieving faster software delivery cycles, lower TCO, and gain operational efficiencies. This is achieved through an automation first approach, as well as offloading the heavy lifting by leveraging managed services when possible. Ways to modernize include going to the cloud, using automation, and taking advantage of cloud-enabled possibilities not previously achievable on-premises (such as real-time analytics or containerization).

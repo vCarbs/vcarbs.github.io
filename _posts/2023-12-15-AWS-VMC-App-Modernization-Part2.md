@@ -3,6 +3,9 @@ title: VMC on AWS Application Modernization - Part 2
 date: 2023-12-15
 tags: [VMC, VMC on AWS]     # TAG names should always be lowercase
 ---
+*Note: This is part 3 of a 3 part series.* 
+[Part 1](/posts/AWS-VMC-App-Modernization-Part1)   \||   [Part 2](/posts/AWS-VMC-App-Modernization-Part2)   \||   [Part 3](/posts/AWS-VMC-App-Modernization-Part3)
+
 ## 1.2	Application Modernization Use Cases
 
 While there may be milestones to meet along the way, it is important to recognize that ultimately your modernization journey is an iterative process, and you can work in smaller phases. You migrate, then you keep modernizing and keep maturing. It is also important to note that every customer and company has their own internal policies and processes, modernization, too, varies from customer to customer. To help you get started, we are covering three use cases. These application modernization use cases are Load Balancing, Databases, and Containers.

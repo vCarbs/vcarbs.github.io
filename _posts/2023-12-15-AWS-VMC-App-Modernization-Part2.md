@@ -3,7 +3,7 @@ title: VMC on AWS Application Modernization - Part 2
 date: 2023-12-15
 tags: [VMC, VMC on AWS]     # TAG names should always be lowercase
 ---
-*Note: This is part 3 of a 3 part series.* 
+*Note: This is part 2 of a 3 part series.* 
 [Part 1](/posts/AWS-VMC-App-Modernization-Part1)   \||   [Part 2](/posts/AWS-VMC-App-Modernization-Part2)   \||   [Part 3](/posts/AWS-VMC-App-Modernization-Part3)
 
 ## 1.2	Application Modernization Use Cases

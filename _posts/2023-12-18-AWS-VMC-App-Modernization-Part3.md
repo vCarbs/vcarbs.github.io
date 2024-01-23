@@ -26,10 +26,9 @@ Before you begin the process of modernizing your applications, perform a readine
 The approach to modernization should be incremental but continuous. By following this phased approach, you not only reduce technical debt but help your teams realize cloud benefits faster by scaling seamlessly with self-healing systems, maximize return on investment (ROI) by using cloud-native patterns, offload undifferentiated workloads and dependencies, and improve application performance. For more information about how you can change your operating model and align with a framework that starts with a detailed assessment of current applications, and then modernize those applications by using cloud-native services that can deploy, scale at speed, and manage with efficiency.
 
 AWS Resources:
-- Modernize Applications with Microservices Architecture using Amazon Elastic Kubernetes Service (Amazon EKS)
-- AWS Elastic Load Balancing
-- Amazon Relational Database Service (RDS)
-- Cloud Adoption Framework
-- Strategy for Modernizing Applications in the AWS Cloud
-- AWS Well Architected Framework
-- AWS Partner Network
+- Modernize Applications with Microservices Architecture using Amazon Elastic Kubernetes Service (Amazon EKS) - https://d1.awsstatic.com/architecture-diagrams/ArchitectureDiagrams/modernize-applications-with-microservices-using-amazon-eks-ra.pdf
+- AWS Elastic Load Balancing - https://aws.amazon.com/elasticloadbalancing/
+- Amazon Relational Database Service (RDS) - https://aws.amazon.com/rds/
+- Cloud Adoption Framework - https://docs.aws.amazon.com/whitepapers/latest/aws-migration-whitepaper/the-aws-cloud-adoption-framework-aws-caf.html
+- Strategy for Modernizing Applications in the AWS Cloud - https://docs.aws.amazon.com/prescriptive-guidance/latest/strategy-modernizing-applications/welcome.html
+- AWS Well Architected Framework - https://aws.amazon.com/architecture/well-architected
